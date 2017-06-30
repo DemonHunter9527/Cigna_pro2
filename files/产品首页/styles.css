@@ -1267,7 +1267,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'华文细黑 Bold', '华文细黑';
+  font-family:'华文细黑 Bold', '华文细黑 Regular', '华文细黑';
   font-weight:700;
   font-style:normal;
 }
@@ -1277,7 +1277,7 @@
   top:455px;
   width:285px;
   height:38px;
-  font-family:'华文细黑 Bold', '华文细黑';
+  font-family:'华文细黑 Bold', '华文细黑 Regular', '华文细黑';
   font-weight:700;
   font-style:normal;
 }
@@ -1516,7 +1516,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:87px;
+  width:45px;
   height:28px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -1538,7 +1538,7 @@
   position:absolute;
   left:194px;
   top:280px;
-  width:87px;
+  width:45px;
   height:28px;
   font-family:'华文细黑';
   font-weight:400;
@@ -1550,7 +1550,7 @@
   position:absolute;
   left:2px;
   top:4px;
-  width:83px;
+  width:41px;
   word-wrap:break-word;
 }
 #u92_div {
@@ -1577,7 +1577,7 @@
 }
 #u92 {
   position:absolute;
-  left:287px;
+  left:245px;
   top:280px;
   width:45px;
   height:28px;
@@ -1632,7 +1632,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:45px;
+  width:86px;
   height:28px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -1654,7 +1654,7 @@
   position:absolute;
   left:194px;
   top:332px;
-  width:45px;
+  width:86px;
   height:28px;
   font-family:'华文细黑';
   font-weight:400;
@@ -1666,7 +1666,7 @@
   position:absolute;
   left:2px;
   top:4px;
-  width:41px;
+  width:82px;
   word-wrap:break-word;
 }
 #u98_div {
@@ -1693,7 +1693,7 @@
 }
 #u98 {
   position:absolute;
-  left:245px;
+  left:286px;
   top:332px;
   width:45px;
   height:28px;
@@ -2335,7 +2335,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'华文细黑 Bold', '华文细黑';
+  font-family:'华文细黑 Bold', '华文细黑 Regular', '华文细黑';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -2347,7 +2347,7 @@
   top:8px;
   width:103px;
   height:22px;
-  font-family:'华文细黑 Bold', '华文细黑';
+  font-family:'华文细黑 Bold', '华文细黑 Regular', '华文细黑';
   font-weight:700;
   font-style:normal;
   font-size:16px;
